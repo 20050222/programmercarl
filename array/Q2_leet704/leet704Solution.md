@@ -2,7 +2,7 @@
 
 ##### 力扣题解链接
 
-> [704. 二分查找 - 力扣（LeetCode）](https://leetcode.cn/problems/binary-search/solutions/4039073/er-fen-cha-zhao-kao-lu-liang-chong-bian-tyqsb/)
+> Problem: [704. 二分查找 - 力扣（LeetCode）](https://leetcode.cn/problems/binary-search/solutions/4039073/er-fen-cha-zhao-kao-lu-liang-chong-bian-tyqsb/)
 
 ##### 思路
 
